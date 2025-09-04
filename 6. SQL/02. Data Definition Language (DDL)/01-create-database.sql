@@ -1,0 +1,1 @@
+CREATE DATABASE talently; -- This command creates a new database named 'talently'.

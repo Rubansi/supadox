@@ -1,0 +1,25 @@
+# Installing MySQL server and workbench on Windows
+
+Here is a step-by-step guide for installing MySQL Server and MySQL Workbench on Windows:
+
+## Installing MySQL Server on Windows
+
+1. Go to the official MySQL download page: https://dev.mysql.com/downloads/installer/
+2. Download the MySQL Installer for Windows (choose either the web-community version if you have a good internet connection or the full installer if offline).
+3. Run the downloaded MSI installer file.
+4. Choose the setup type. For most users, "Developer Default" is recommended.
+5. The installer will check for requirements and install necessary components.
+6. Proceed through the installation and configure the MySQL Server:
+   - Set a strong root password when prompted.
+   - Configure the server to run as a Windows service.
+7. Apply the configuration and complete the installation.
+8. Verify the installation by opening MySQL Command Line Client or MySQL Workbench and logging in with the root password.
+
+## Installing MySQL Workbench on Windows
+
+- MySQL Workbench is included in the MySQL Installer as an optional product.
+- During installation, make sure to select MySQL Workbench to be installed.
+- After installation, launch MySQL Workbench from the Start menu.
+- Use it to manage your MySQL databases graphically.
+
+This method will install MySQL Server and MySQL Workbench cleanly on a Windows machine, including configuring the server and setting passwords
