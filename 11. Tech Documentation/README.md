@@ -17,3 +17,20 @@ Technical documentation comes in many forms, each serving a different purpose:
 - **System Documentation**: Details system architecture, infrastructure, database schemas, and code documentation for developers and administrators.
 - **Knowledge Bases & Wikis**: Centralized hubs where teams share and organize information for quick access.
 - **Training Materials & Tutorials**: Step-by-step guides, e-learning modules, or video tutorials designed to teach new users or staff.
+
+------
+
+## Core Components of Good Documentation
+
+Every piece of technical documentation should include certain elements to make it effective:
+
+- **Clear Purpose** – State the goal of the document upfront.
+- **Audience Awareness** – Adjust the level of detail depending on whether the audience is technical, non-technical, internal, or external.
+- **Structure & Organization** – Use headings, bullet points, and a table of contents for easy navigation.
+- **Clarity & Simplicity** – Keep sentences short, avoid unnecessary jargon, and explain terms where needed.
+- **Consistency** – Stick to a defined style and terminology across all documents.
+- **Accuracy & Currency** – Outdated or incorrect documentation can create confusion or mistakes.
+- **Examples & Visuals** – Code snippets, screenshots, and diagrams help bring abstract concepts to life.
+- **Searchability** – Use indexes, tags, and hyperlinks so users can find the right information quickly.
+
+------
