@@ -1,5 +1,9 @@
 # Technical Documentation: A Quick Guide
 
+[TOC]
+
+------
+
 ## Introduction
 
 Technical documentation is the backbone of any product, system, or process. It refers to the structured information created to explain how something works, how to use it, or how to maintain it. Good documentation ensures that knowledge is not locked in the minds of a few individuals but can be shared, understood, and acted upon by anyone who needs it.
@@ -58,3 +62,15 @@ Even with the best intentions, documentation efforts can run into common challen
 - **Ensuring accessibility** for diverse users, including those with disabilities.
 
 Addressing these challenges requires a mindset that treats documentation as a continuous, evolving process rather than a one-time task.
+
+------
+
+## Benefits of Good Documentation
+
+When done right, technical documentation brings measurable benefits:
+
+- Improves overall **user experience**.
+- Reduces **support and training costs**.
+- Speeds up **onboarding** for new staff or customers.
+- Enhances **product adoption** by lowering the learning curve.
+- Preserves **organizational knowledge**, preventing it from being lost when team members leave.
