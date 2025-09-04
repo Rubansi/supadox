@@ -34,3 +34,14 @@ Every piece of technical documentation should include certain elements to make i
 - **Searchability** – Use indexes, tags, and hyperlinks so users can find the right information quickly.
 
 ------
+
+## Documentation Tools & Formats
+
+Technical documentation can be created and shared through various tools and formats:
+
+- **Authoring Tools**: Markdown editors, LaTeX, Microsoft Word, Google Docs.
+- **Publishing Platforms**: Confluence, GitBook, ReadTheDocs, Docusaurus, Notion.
+- **Collaboration Tools**: GitHub and GitLab wikis, shared drives, or enterprise knowledge bases.
+- **Formats**: PDFs for offline use, HTML for web-based docs, or interactive portals.
+
+Choosing the right tool depends on your audience, the complexity of your content, and how often updates are required.
