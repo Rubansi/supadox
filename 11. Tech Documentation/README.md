@@ -6,3 +6,14 @@ Technical documentation is the backbone of any product, system, or process. It r
 
 Whether you are building software, operating hardware, or managing organizational workflows, technical documentation plays a crucial role in improving usability, reducing errors, and saving time for both users and teams.
 
+------
+
+## Types of Technical Documentation
+
+Technical documentation comes in many forms, each serving a different purpose:
+
+- **Product Documentation**: Includes user manuals, FAQs, installation guides, and API references that help customers or end-users interact with a product.
+- **Process Documentation**: Covers workflows, standard operating procedures (SOPs), troubleshooting guides, and best practices for internal teams.
+- **System Documentation**: Details system architecture, infrastructure, database schemas, and code documentation for developers and administrators.
+- **Knowledge Bases & Wikis**: Centralized hubs where teams share and organize information for quick access.
+- **Training Materials & Tutorials**: Step-by-step guides, e-learning modules, or video tutorials designed to teach new users or staff.
