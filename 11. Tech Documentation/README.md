@@ -46,7 +46,7 @@ Technical documentation can be created and shared through various tools and form
 
 Choosing the right tool depends on your audience, the complexity of your content, and how often updates are required.
 
-
+------
 
 ## Challenges in Documentation
 
