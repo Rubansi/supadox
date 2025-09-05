@@ -66,3 +66,10 @@
 - Branch naming strategies (feature/, bugfix/, hotfix/)
 - Regular pulls to stay updated
 - Keeping commits small and meaningful
+
+### 10. **Common Git Problems & Solutions**
+
+- Merge conflicts and resolution
+- Detached HEAD state
+- Undoing commits (`git reset`, `git revert`)
+- Accidental push fixes
