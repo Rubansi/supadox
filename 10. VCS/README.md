@@ -59,3 +59,10 @@
 - Stashing (`git stash`)
 - Tags (`git tag`)
 - Git reflog and recovery
+
+### 9. **Best Practices**
+
+- Commit message conventions (clear, descriptive, imperative tone)
+- Branch naming strategies (feature/, bugfix/, hotfix/)
+- Regular pulls to stay updated
+- Keeping commits small and meaningful
