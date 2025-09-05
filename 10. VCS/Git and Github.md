@@ -94,8 +94,8 @@ git status
 
 ```
 git add filename.txt
-# Or add all changes
-git add .
+
+git add . # Or add all changes
 ```
 
 ​	e. **Commit Changes**
@@ -109,3 +109,33 @@ git commit -m "Add new feature"
 ```
 git log
 ```
+
+## 5. Branching and Merging
+
+**Create a Branch**
+
+```
+git branch feature-branch
+git checkout feature-branch
+# Or combined
+git checkout -b feature-branch
+```
+
+**Merge Branch**
+
+```
+git checkout main
+git merge feature-branch
+```
+
+**Delete Branch**
+
+```
+git branch -d feature-branch
+```
+
+**Handling Merge Conflicts**
+
+- Conflicts happen when changes overlap.
+- Git marks conflicts in files using `<<<<<<<`, `=======`, and `>>>>>>>`.
+- Resolve manually, then commit.
