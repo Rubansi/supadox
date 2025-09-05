@@ -218,3 +218,13 @@ git tag v1.0
 ```
 git reflog
 ```
+
+## 9. Best Practices
+
+- Write meaningful commit messages:
+  - ✅ “Fix login bug on mobile”
+  - ❌ “Fixed stuff”
+- Keep commits small and focused.
+- Use descriptive branch names (`feature/authentication`, `bugfix/ui-error`).
+- Pull frequently to avoid conflicts.
+- Avoid committing sensitive data.
