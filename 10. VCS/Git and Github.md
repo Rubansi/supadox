@@ -257,3 +257,15 @@ git revert <commit_id>
 - **GitHub Pages:** Free hosting for static sites.
 - **Discussions:** Community engagement.
 - **Dependabot & Security:** Automated dependency updates and vulnerability alerts.
+
+## 12. Conclusion & Resources
+
+**Summary:**
+ Version control is essential for modern development. Git provides powerful local tools, while GitHub enhances collaboration, sharing, and automation.
+
+**Resources:**
+
+- [Git Official Docs](https://git-scm.com/doc?utm_source=chatgpt.com)
+- GitHub Docs
+- [Pro Git Book](https://git-scm.com/book/en/v2?utm_source=chatgpt.com)
+- Git Cheatsheet (PDF)
