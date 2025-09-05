@@ -35,3 +35,12 @@
 - Switching branches
 - Merging branches
 - Handling merge conflicts
+
+### 6. **Working with Remotes (GitHub)**
+
+- What is GitHub?
+- Creating a repository on GitHub
+- Connecting local repo to GitHub (`git remote add origin …`)
+- Pushing changes (`git push`)
+- Pulling changes (`git pull`)
+- Forking and cloning from GitHub
