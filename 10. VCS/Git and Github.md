@@ -139,3 +139,34 @@ git branch -d feature-branch
 - Conflicts happen when changes overlap.
 - Git marks conflicts in files using `<<<<<<<`, `=======`, and `>>>>>>>`.
 - Resolve manually, then commit.
+
+## 6. Working with Remotes (GitHub)
+
+**What is GitHub?**
+ GitHub is a platform for hosting Git repositories, enabling collaboration, sharing, and version control in the cloud.
+
+**Connect Local Repo to GitHub**
+
+```
+git remote add origin https://github.com/user/repo.git
+git branch -M main
+git push -u origin main
+```
+
+**Push Changes**
+
+```
+git push origin main
+```
+
+**Pull Changes**
+
+```
+git pull origin main
+```
+
+**Clone from GitHub**
+
+```
+git clone https://github.com/user/repo.git
+```
