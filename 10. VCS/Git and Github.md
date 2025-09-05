@@ -25,3 +25,25 @@
 3. **Distributed Version Control (DVCS)** – Every user has a full copy of the repository (e.g., Git, Mercurial).
 
 👉 Git is the most popular DVCS today.
+
+------
+
+## 2. Introduction to Git
+
+**What is Git?**
+ Git is a free, open-source, distributed version control system created by Linus Torvalds in 2005. It is optimized for speed, flexibility, and collaboration.
+
+**Why Git?**
+
+- Distributed: Every developer has the full history of the project.
+- Fast: Operations are local, making them faster.
+- Branching: Easy to create, merge, and delete branches.
+- Popular: Used in most modern software projects.
+
+**Key Concepts**
+
+- **Repository (Repo):** A project’s folder tracked by Git.
+- **Commit:** A snapshot of project changes.
+- **Branch:** A parallel line of development.
+- **Merge:** Combining changes from different branches.
+- **Remote:** A version of the repo hosted online (e.g., GitHub).
