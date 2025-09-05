@@ -47,3 +47,65 @@
 - **Branch:** A parallel line of development.
 - **Merge:** Combining changes from different branches.
 - **Remote:** A version of the repo hosted online (e.g., GitHub).
+
+## 3. Setting Up Git
+
+**Install Git:**
+
+- Windows: Download from [git-scm.com](https://git-scm.com?utm_source=chatgpt.com).
+- Mac: Use Homebrew (`brew install git`).
+- Linux: Use package manager (`sudo apt-get install git`).
+
+**Configure Git:**
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "youremail@example.com"
+git config --global core.editor "code --wait"
+```
+
+**Verify Installation:**
+
+```
+git --version
+```
+
+## 4. Basic Git Workflow
+
+​	a. **Initialize a Repo**
+
+```
+git init
+```
+
+​	b. **Clone an Existing Repo**
+
+```
+git clone https://github.com/user/repo.git
+```
+
+​	c. **Check File Status**
+
+```
+git status
+```
+
+​	d. **Stage Changes**
+
+```
+git add filename.txt
+# Or add all changes
+git add .
+```
+
+​	e. **Commit Changes**
+
+```
+git commit -m "Add new feature"
+```
+
+​	g. **View History**
+
+```
+git log
+```
