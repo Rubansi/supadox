@@ -44,3 +44,10 @@
 - Pushing changes (`git push`)
 - Pulling changes (`git pull`)
 - Forking and cloning from GitHub
+
+### 7. **Collaboration Workflow**
+
+- Forking workflow vs. Branching workflow
+- Pull Requests (PRs)
+- Code Reviews
+- GitHub Issues and Project Boards
