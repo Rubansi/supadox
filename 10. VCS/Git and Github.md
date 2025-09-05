@@ -228,3 +228,25 @@ git reflog
 - Use descriptive branch names (`feature/authentication`, `bugfix/ui-error`).
 - Pull frequently to avoid conflicts.
 - Avoid committing sensitive data.
+
+## 10. Common Git Problems & Solutions
+
+- **Merge Conflicts:** Resolve manually, then `git add` and `git commit`.
+- **Detached HEAD:** Switch back using `git checkout branch_name`.
+- **Undo Last Commit (keep changes):**
+
+```
+git reset --soft HEAD~1
+```
+
+- **Undo Last Commit (discard changes):**
+
+```
+git reset --hard HEAD~1
+```
+
+- **Revert Commit:**
+
+```
+git revert <commit_id>
+```
