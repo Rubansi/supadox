@@ -190,3 +190,31 @@ git clone https://github.com/user/repo.git
 
 - Used for tracking bugs, features, and tasks.
 - Helps with agile project management.
+
+## 8. Advanced Git Concepts
+
+- **.gitignore:** Ignore files you don’t want to track.
+- **Rebasing:** Reapply commits on top of another branch.
+
+```
+git rebase main
+```
+
+- **Stashing:** Save uncommitted work temporarily.
+
+```
+git stash
+git stash pop
+```
+
+- **Tags:** Mark specific points in history.
+
+```
+git tag v1.0
+```
+
+- **Reflog:** View history of all actions.
+
+```
+git reflog
+```
