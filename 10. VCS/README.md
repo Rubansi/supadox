@@ -80,3 +80,9 @@
 - GitHub Pages (hosting)
 - GitHub Discussions
 - Security (Dependabot, code scanning)
+
+### 12. **Conclusion & Resources**
+
+- Summary of why version control is essential
+- Official documentation links
+- Recommended Git cheatsheet
