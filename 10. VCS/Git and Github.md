@@ -250,3 +250,10 @@ git reset --hard HEAD~1
 ```
 git revert <commit_id>
 ```
+
+## 11. GitHub Features Beyond Git
+
+- **GitHub Actions:** Automate workflows (CI/CD).
+- **GitHub Pages:** Free hosting for static sites.
+- **Discussions:** Community engagement.
+- **Dependabot & Security:** Automated dependency updates and vulnerability alerts.
