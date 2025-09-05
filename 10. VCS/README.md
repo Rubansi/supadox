@@ -14,3 +14,9 @@
 - What is Git?
 - Why Git is popular (distributed, fast, flexible)
 - Basic concepts: Repository, Commit, Branch, Merge, Remote
+
+### 3. **Setting Up Git**
+
+- Installation (Windows, Mac, Linux)
+- Configuring Git (`git config --global user.name`, `git config --global user.email`)
+- Understanding `.git` folder
