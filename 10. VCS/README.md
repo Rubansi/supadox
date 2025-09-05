@@ -28,3 +28,10 @@
 - Staging and committing changes (`git add`, `git commit`)
 - Viewing history (`git log`)
 - Checking status (`git status`)
+
+### 5. **Branching and Merging**
+
+- Creating branches (`git branch`, `git checkout -b`)
+- Switching branches
+- Merging branches
+- Handling merge conflicts
