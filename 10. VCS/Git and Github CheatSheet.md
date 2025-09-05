@@ -1,0 +1,103 @@
+# 📝 Git & GitHub Cheatsheet
+
+------
+
+## 🔧 Setup
+
+```
+git config --global user.name "Your Name"
+git config --global user.email "you@example.com"
+git config --list
+```
+
+------
+
+## 📂 Create or Clone Repo
+
+```
+git init                 # Initialize repo
+git clone <url>          # Clone existing repo
+```
+
+------
+
+## 📌 Basic Workflow
+
+```
+git status               # Check status
+git add <file>           # Stage file
+git add .                # Stage all changes
+git commit -m "Message"  # Commit staged changes
+git log                  # View commit history
+```
+
+------
+
+## 🌿 Branching & Merging
+
+```
+git branch               # List branches
+git branch <name>        # Create branch
+git checkout <name>      # Switch branch
+git checkout -b <name>   # Create & switch
+git merge <branch>       # Merge into current branch
+git branch -d <name>     # Delete branch
+```
+
+------
+
+## 🌍 Remote Repositories (GitHub)
+
+```
+git remote -v                               # Show remotes
+git remote add origin <url>                 # Connect remote
+git push -u origin main                     # Push branch
+git push                                    # Push changes
+git pull origin main                        # Pull changes
+git clone https://github.com/user/repo.git  # Clone repo
+```
+
+------
+
+## ⚡ Undoing Changes
+
+```
+git reset --soft HEAD~1    # Undo commit, keep changes
+git reset --hard HEAD~1    # Undo commit & discard changes
+git revert <commit_id>     # Revert commit
+git checkout -- <file>     # Discard local changes
+```
+
+------
+
+## 📦 Stash & Tags
+
+```
+git stash              # Save uncommitted work
+git stash pop          # Apply stashed work
+git tag v1.0           # Create tag
+git tag                # List tags
+```
+
+------
+
+## ⚠️ Conflict Resolution
+
+1. Edit conflicted file(s).
+
+2. Stage fixed file(s):
+
+   ```
+   git add <file>
+   git commit
+   ```
+
+------
+
+## 🛠 Best Practices
+
+- Use clear commit messages (`"Fix login bug"` not `"stuff"`)
+- Keep commits small & focused
+- Pull frequently to reduce conflicts
+- Use `.gitignore` to exclude unwanted files
+- Never commit secrets/passwords
