@@ -20,3 +20,11 @@
 - Installation (Windows, Mac, Linux)
 - Configuring Git (`git config --global user.name`, `git config --global user.email`)
 - Understanding `.git` folder
+
+### 4. **Basic Git Workflow**
+
+- Initialize repository (`git init`)
+- Cloning repositories (`git clone`)
+- Staging and committing changes (`git add`, `git commit`)
+- Viewing history (`git log`)
+- Checking status (`git status`)
