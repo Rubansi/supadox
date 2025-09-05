@@ -51,3 +51,11 @@
 - Pull Requests (PRs)
 - Code Reviews
 - GitHub Issues and Project Boards
+
+### 8. **Advanced Git Concepts**
+
+- Gitignore (`.gitignore`)
+- Rebasing (`git rebase`)
+- Stashing (`git stash`)
+- Tags (`git tag`)
+- Git reflog and recovery
