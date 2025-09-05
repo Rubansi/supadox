@@ -8,3 +8,9 @@
   - Local
   - Centralized (e.g., SVN)
   - Distributed (e.g., Git)
+
+### 2. **Introduction to Git**
+
+- What is Git?
+- Why Git is popular (distributed, fast, flexible)
+- Basic concepts: Repository, Commit, Branch, Merge, Remote
