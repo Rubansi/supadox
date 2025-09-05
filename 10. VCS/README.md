@@ -73,3 +73,10 @@
 - Detached HEAD state
 - Undoing commits (`git reset`, `git revert`)
 - Accidental push fixes
+
+### 11. **GitHub Features Beyond Git**
+
+- GitHub Actions (CI/CD basics)
+- GitHub Pages (hosting)
+- GitHub Discussions
+- Security (Dependabot, code scanning)
