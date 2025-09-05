@@ -170,3 +170,23 @@ git pull origin main
 ```
 git clone https://github.com/user/repo.git
 ```
+
+## 7. Collaboration Workflow
+
+**Forking Workflow**
+
+- Fork repo → Make changes → Create Pull Request (PR).
+
+**Branching Workflow**
+
+- Create feature branch → Push → Open PR → Review → Merge.
+
+**Pull Requests (PRs)**
+
+- A way to propose changes.
+- Reviewed by team members before merging.
+
+**GitHub Issues & Project Boards**
+
+- Used for tracking bugs, features, and tasks.
+- Helps with agile project management.
